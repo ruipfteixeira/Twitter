@@ -16,4 +16,7 @@ To be able to use the program, you will need to have a Twitter account and to re
 After gathering all the images posted under the hashtag #VermelhoemBelem, I used an online tool to create a mosaic of images. This is what the result looks like.
 
 ![Lipstick image.](/images/1.jpg)
+Format: ![Alt Text](url)
+
 ![Candidate image.](/images/2.jpg)
+Format: ![Alt Text](url)
