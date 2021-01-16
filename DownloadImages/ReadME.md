@@ -10,3 +10,10 @@ The code is easily reusable for other circumstances.
 ## Authentication
 
 To be able to use the program, you will need to have a Twitter account and to register on Twitter Developer. After that, you create an app and access the API key & secret (or consumer key & secret) and the access token & secret. You will need this to be able to run the code.
+
+## Results
+
+After gathering all the images posted under the hashtag #VermelhoemBelem, I used an online tool to create a mosaic of images. This is what the result looks like.
+
+![Lipstick image.](/images/1.png)
+![Candidate image.](/images/2.png)
