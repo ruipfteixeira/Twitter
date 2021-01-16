@@ -1,7 +1,9 @@
 # Twitter Download Images
 
 During the campaign for the 2021 Presidential elections in Portugal, the far-right candidate made fun of the left candidate Marisa Matias for painting their lips with red lipstick.
+
 Almost instantaneously, the hashtag #VermelhoemBelem (meaning "Red in Belem", Belem being the official residence of the President of the Portuguese Republic) appeared on Twitter with users posting pictures or memes in support of the candidate and against the far-right candidate.
+
 I decided to write some code to download all the posted images under this hashtag and to make a mosaic of images out of it.
 The code is easily reusable for other circumstances.
 
